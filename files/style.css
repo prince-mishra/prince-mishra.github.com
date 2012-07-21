@@ -45,8 +45,14 @@ h2 {
 }
 
 .js h1, .js h2 { display: none }
-
-
+h3 {
+	padding-right:450px;
+}
+h3 a {
+	float:right;
+	margin-left:20px;
+	
+}
 
 span.lastname > .sz {
     -webkit-animation: neon 5s infinite alternate;
